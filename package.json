@@ -1,0 +1,16 @@
+{
+  "name": "neo-sdk",
+  "version": "1.0.0",
+  "description": "neo-sdk",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "3t-logic",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+  }
+}
